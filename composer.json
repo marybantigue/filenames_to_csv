@@ -1,0 +1,11 @@
+{
+    "name": "maryban/filenames_to_csv",
+    "autoload": {
+        "psr-4": {
+            "Maryban\\FilenamesToCsv\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
